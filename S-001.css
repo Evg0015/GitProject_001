@@ -9,10 +9,17 @@ body{
     font-size: 30px;
  }
 
-
- 
 .text2 { 
 	color: #29700d; 
 	text-align: center;
 	font-family: arial;
+ }
+
+ .button1{
+	margin: auto;
+	display: block;
+	width: 100px;
+	height: 40px;
+	color: #278f3a; 
+	font-size: 16px;
  }
