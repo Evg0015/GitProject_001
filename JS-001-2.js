@@ -98,6 +98,7 @@ button.addEventListener('click', function() {
     grid[newx[i]][newy[i]] = true;
   }
   drawGrid();
+  console.log('Кнопка была нажата!');
 });
 
 
